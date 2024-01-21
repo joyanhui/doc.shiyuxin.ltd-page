@@ -1,0 +1,1 @@
+import{_ as t}from"./plugin-vue_export-helper-c27b6911.js";import{o,c,a as e}from"./app-e0cdf47a.js";const _={},s=e("p",null,"建议选择智能配网模式，如果失败再选择其他模式。",-1),n=e("p",null,"如果有大量设备需要配网，可以选择热点模式。",-1),l=[s,n];function r(a,i){return o(),c("div",null,l)}const h=t(_,[["render",r],["__file","howSelect.html.vue"]]);export{h as default};
